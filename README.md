@@ -2,13 +2,13 @@
 
 **Stay in flow while you read.**
 
-Focus Flow is a cognitive load–aware study companion that helps learners stay in flow while reading dense material. It adapts the reading experience based on your cognitive effort using explainable, non-invasive heuristics—without tracking you.
+Focus Flow is a cognitive load aware study companion that helps learners stay in flow while reading dense material. It adapts the reading experience based on your cognitive effort using explainable, non invasive heuristics without tracking you.
 
 ## Features
 
 - **Adaptive Reading Interface**: Automatically simplifies the UI based on real-time cognitive strain detection.
 - **Academic Structure Detection**: Recognizes section headers, abstract blocks, and mentions of figure references (e.g., "Fig. 1").
-- **Precision Behavioral Engine**: Analyzes micro-scrolls, re-reads, and hesitation using weighted heuristics.
+- **Precision Behavioral Engine**: Analyzes micro scrolls, re reads, and hesitation using weighted heuristics.
 - **Effort Analysis Timeline**: A professional, normalized visualization of cognitive effort across document sections.
 - **Supportive UX**: Non-intrusive break suggestions and integrated session pausing.
 - **Privacy First**: 100% in-browser processing. Zero data leaves your device.
