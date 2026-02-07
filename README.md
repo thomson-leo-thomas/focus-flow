@@ -1,6 +1,6 @@
 # Focus Flow
 
-🔗 Live Demo: https://your-app-name.vercel.app
+🔗 Live Demo: https://focus-flow-two-flame.vercel.app/
 
 Focus Flow is a privacy-first, cognitive load–aware reading companion designed for dense and concept-heavy documents.
 
