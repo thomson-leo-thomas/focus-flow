@@ -1,5 +1,9 @@
 # Focus Flow
 
+🔗 Live Demo: https://your-app-name.vercel.app
+
+Focus Flow is a privacy-first, cognitive load–aware reading companion designed for dense and concept-heavy documents.
+
 **Stay in flow while you read.**
 
 Focus Flow is a cognitive load aware study companion that helps learners stay in flow while reading dense material. It adapts the reading experience based on your cognitive effort using explainable, non invasive heuristics without tracking you.
